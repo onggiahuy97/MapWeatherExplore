@@ -41,5 +41,3 @@ Once the app is running, you can interact with the map interface. Tap any locati
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.

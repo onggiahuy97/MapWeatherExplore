@@ -2,20 +2,16 @@
 # Map Explore App
 
 ## Overview
-The Map Explore App is a SwiftUI application that integrates Google Maps and WeatherKit, allowing users to interact with a map and receive real-time weather updates at any location with just a tap. This feature-rich app enhances user experience by combining the robust mapping capabilities of Google Maps with the precise weather forecasting of WeatherKit.
+The Map Explore App is a SwiftUI application that integrates Google Maps and WeatherKit, allowing users to interact with a map and receive real-time weather updates at any location with just a tap. 
+
+## Demo
+<img src="public/mediamodifier_image.png" alt="Optional Image Alt Text" width="50%">
 
 ## Features
 - **Google Maps Integration:** Interactive map interface with capabilities for zooming and panning.
 - **Real-Time Weather Updates:** Tap anywhere on the map to get current weather details for that location.
 
 ## Getting Started
-
-### Prerequisites
-- Xcode 12 or later
-- iOS 15 or later
-- Swift 5
-- An active Apple Developer account
-- A valid Google Maps API key
 
 ### Setup Instructions
 
